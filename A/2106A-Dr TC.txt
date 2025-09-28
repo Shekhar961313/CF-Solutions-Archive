@@ -1,0 +1,12 @@
+// Problem: Dr. TC
+// Contest: 2106
+// URL: https://codeforces.com/problemset/problem/2106/A
+// Rating: 800
+// 
+// Submission ID: 321162901
+// Language: C++17 (GCC 7-32)
+// Date: 2025-05-24 19:30:13
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.

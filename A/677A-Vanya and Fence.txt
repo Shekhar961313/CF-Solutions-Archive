@@ -1,0 +1,12 @@
+// Problem: Vanya and Fence
+// Contest: 677
+// URL: https://codeforces.com/problemset/problem/677/A
+// Rating: 800
+// 
+// Submission ID: 340646638
+// Language: C++17 (GCC 7-32)
+// Date: 2025-09-26 16:24:03
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.

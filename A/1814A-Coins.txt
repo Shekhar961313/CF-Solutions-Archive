@@ -1,0 +1,12 @@
+// Problem: Coins
+// Contest: 1814
+// URL: https://codeforces.com/problemset/problem/1814/A
+// Rating: 800
+// 
+// Submission ID: 322942010
+// Language: C++17 (GCC 7-32)
+// Date: 2025-06-05 06:06:54
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.

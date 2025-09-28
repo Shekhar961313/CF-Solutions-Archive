@@ -1,0 +1,12 @@
+// Problem: Be Positive
+// Contest: 2149
+// URL: https://codeforces.com/problemset/problem/2149/A
+// Rating: Unrated
+// 
+// Submission ID: 340425246
+// Language: C++17 (GCC 7-32)
+// Date: 2025-09-25 15:06:30
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.

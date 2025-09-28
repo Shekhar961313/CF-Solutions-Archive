@@ -1,0 +1,12 @@
+// Problem: Alternating Sum of Numbers
+// Contest: 2010
+// URL: https://codeforces.com/problemset/problem/2010/A
+// Rating: 800
+// 
+// Submission ID: 322064218
+// Language: C++17 (GCC 7-32)
+// Date: 2025-05-30 14:13:09
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.

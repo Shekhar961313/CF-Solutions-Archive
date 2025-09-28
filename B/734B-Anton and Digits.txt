@@ -1,0 +1,12 @@
+// Problem: Anton and Digits
+// Contest: 734
+// URL: https://codeforces.com/problemset/problem/734/B
+// Rating: 800
+// 
+// Submission ID: 336778680
+// Language: C++17 (GCC 7-32)
+// Date: 2025-09-03 15:55:36
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.

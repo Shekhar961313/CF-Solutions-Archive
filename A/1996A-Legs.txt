@@ -1,0 +1,12 @@
+// Problem: Legs
+// Contest: 1996
+// URL: https://codeforces.com/problemset/problem/1996/A
+// Rating: 800
+// 
+// Submission ID: 321955658
+// Language: C++17 (GCC 7-32)
+// Date: 2025-05-29 16:47:30
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.
