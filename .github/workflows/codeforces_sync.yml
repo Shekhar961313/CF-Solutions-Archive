@@ -9,8 +9,11 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      # This is the corrected step
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v4
