@@ -5,7 +5,7 @@ import subprocess
 
 # --- CONFIGURATION (Updated for Level-Based Sorting) ---
 # Your Codeforces handle (MUST CHANGE)
-CF_HANDLE = "Shekhar961313"
+CF_HANDLE = "here_i_am_"
 
 # The local path to your cloned GitHub repository
 # This should be "." as the script runs from the repo root
