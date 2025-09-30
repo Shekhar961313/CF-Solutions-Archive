@@ -1,0 +1,12 @@
+// Problem: Sale
+// Contest: 34
+// URL: https://codeforces.com/problemset/problem/34/B
+// Rating: 900
+// 
+// Submission ID: 341247216
+// Language: C++17 (GCC 7-32)
+// Date: 2025-09-30 19:11:50
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.
