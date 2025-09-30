@@ -1,0 +1,12 @@
+// Problem: Decoding
+// Contest: 746
+// URL: https://codeforces.com/problemset/problem/746/B
+// Rating: 900
+// 
+// Submission ID: 341219591
+// Language: C++17 (GCC 7-32)
+// Date: 2025-09-30 15:42:04
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.
