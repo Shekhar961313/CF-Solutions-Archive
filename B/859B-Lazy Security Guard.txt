@@ -1,0 +1,12 @@
+// Problem: Lazy Security Guard
+// Contest: 859
+// URL: https://codeforces.com/problemset/problem/859/B
+// Rating: 1000
+// 
+// Submission ID: 341646734
+// Language: C++17 (GCC 7-32)
+// Date: 2025-10-03 13:34:54
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.
