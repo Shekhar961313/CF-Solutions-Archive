@@ -1,0 +1,12 @@
+// Problem: New Theatre Square
+// Contest: 1359
+// URL: https://codeforces.com/problemset/problem/1359/B
+// Rating: 1000
+// 
+// Submission ID: 341854135
+// Language: C++17 (GCC 7-32)
+// Date: 2025-10-04 13:12:47
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.

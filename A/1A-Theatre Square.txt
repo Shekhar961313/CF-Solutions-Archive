@@ -1,0 +1,12 @@
+// Problem: Theatre Square
+// Contest: 1
+// URL: https://codeforces.com/problemset/problem/1/A
+// Rating: 1000
+// 
+// Submission ID: 341825090
+// Language: C++17 (GCC 7-32)
+// Date: 2025-10-04 09:59:25
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.
