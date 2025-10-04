@@ -93,19 +93,31 @@ def main():
 
             new_files_added = True
 
+    # --- THIS IS THE MODIFIED PART ---
     if new_files_added:
         print("✅ New files added. Committing and pushing to GitHub...")
         try:
             subprocess.run(["git", "pull"], cwd=REPO_PATH, check=True)
             subprocess.run(["git", "add", "."], cwd=REPO_PATH, check=True)
-            subprocess.run(["git", "commit", "-m", "Add new Codeforces solutions"], cwd=REPO_PATH, check=True)
+            subprocess.run(["git", "commit", "-m", "feat: Add new Codeforces solutions"], cwd=REPO_PATH, check=True)
             subprocess.run(["git", "push"], cwd=REPO_PATH, check=True)
             print("✅ Successfully pushed to GitHub!")
         except subprocess.CalledProcessError as e:
             print("❌ Git error:", e)
     else:
-        print("📦 No new files to commit. Everything is up-to-date.")
+        print("📦 No new solutions found. Making an empty commit for daily activity...")
+        try:
+            # Pull first to make sure the repository is up-to-date
+            subprocess.run(["git", "pull"], cwd=REPO_PATH, check=True)
+            # Create an empty commit to mark daily activity
+            commit_message = "chore: Daily sync check (no new solutions)"
+            subprocess.run(["git", "commit", "--allow-empty", "-m", commit_message], cwd=REPO_PATH, check=True)
+            # Push the empty commit
+            subprocess.run(["git", "push"], cwd=REPO_PATH, check=True)
+            print("✅ Successfully pushed empty commit to maintain streak!")
+        except subprocess.CalledProcessError as e:
+            print(f"❌ Git error during empty commit: {e}")
+            print("This can happen if there's nothing to push. Usually safe to ignore.")
 
 if __name__ == '__main__':
     main()
-
