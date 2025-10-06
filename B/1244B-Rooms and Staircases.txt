@@ -1,0 +1,12 @@
+// Problem: Rooms and Staircases
+// Contest: 1244
+// URL: https://codeforces.com/problemset/problem/1244/B
+// Rating: 1000
+// 
+// Submission ID: 342333469
+// Language: C++17 (GCC 7-32)
+// Date: 2025-10-06 17:11:16
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.
