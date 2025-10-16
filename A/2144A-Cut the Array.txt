@@ -1,0 +1,12 @@
+// Problem: Cut the Array
+// Contest: 2144
+// URL: https://codeforces.com/problemset/problem/2144/A
+// Rating: 800
+// 
+// Submission ID: 344075297
+// Language: C++17 (GCC 7-32)
+// Date: 2025-10-16 18:00:37
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.
