@@ -1,0 +1,12 @@
+// Problem: Beautiful Average
+// Contest: 2162
+// URL: https://codeforces.com/problemset/problem/2162/A
+// Rating: Unrated
+// 
+// Submission ID: 345325968
+// Language: C++17 (GCC 7-32)
+// Date: 2025-10-23 10:32:49
+//
+// --- SOLUTION ---
+// NOTE: The Codeforces API does not provide the source code for submissions.
+// You can manually paste your solution here.
